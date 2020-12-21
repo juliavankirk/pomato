@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">960309551813-fmbikpgfmanersvvvat5741785cickls.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">960309551813</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUPG9gSnUwno1u7JuKQEYSU2jNQoN70HA</string>
+    <string name="google_app_id" translatable="false">1:960309551813:android:43afd70596dd7b036dc6ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUPG9gSnUwno1u7JuKQEYSU2jNQoN70HA</string>
+    <string name="google_storage_bucket" translatable="false">pomato-654cd.appspot.com</string>
+    <string name="project_id" translatable="false">pomato-654cd</string>
+</resources>
