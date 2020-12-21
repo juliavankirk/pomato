@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="id_activityScreenTitles">
+        <item></item>
+        <item>Dashboard</item>
+        <item>Profile</item>
+        <item>Messages</item>
+        <item>Projects</item>
+        <item>Tasks</item>
+        <item>Calendar</item>
+        <item/>
+        <item>About Us</item>
+    </string-array>
+
+    <array name="id_activityScreenIcons">
+        <item>@drawable/ic_close</item>
+        <item>@drawable/ic_dashboard</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_messages</item>
+        <item>@drawable/ic_projects</item>
+        <item>@drawable/ic_tasks</item>
+        <item>@drawable/ic_calendar</item>
+        <item>0</item>
+        <item>@drawable/ic_about_us</item>
+    </array>
+</resources>
