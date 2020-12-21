@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960309551813",
+    "project_id": "pomato-654cd",
+    "storage_bucket": "pomato-654cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960309551813:android:43afd70596dd7b036dc6ac",
+        "android_client_info": {
+          "package_name": "com.example.pomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960309551813-fmbikpgfmanersvvvat5741785cickls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUPG9gSnUwno1u7JuKQEYSU2jNQoN70HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960309551813-fmbikpgfmanersvvvat5741785cickls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
